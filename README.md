@@ -1,5 +1,5 @@
 # Music-Visualiser
-Music Visualiser created using Javascript and p5.js
+Music Visualiser created using Javascript and p5.js for a school project.
 
 
 To run / play:
